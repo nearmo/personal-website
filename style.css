@@ -130,6 +130,7 @@ body
 {
     margin-top: -170px;
     padding: 20px;
+    padding-left: 50px;
     background-color: #ededed;
     border-width: 5px;
     border-color: #000000;
@@ -138,7 +139,7 @@ body
 {
     text-align: justify;
     font-family: Open Sans, sans-serif;
-    font-size: 17.5pt;
+    font-size: 16pt;
     font-weight: 200;
 }
 .col-sm-7 h1
@@ -155,6 +156,7 @@ body
     position: relative;
     right: 30px;
     padding-left: 20px;
+    padding-right: 20px;
 }
 
 
