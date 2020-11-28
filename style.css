@@ -88,6 +88,14 @@ html, body {
   color: #3d75a4;
 }
 
+.fa-product-hunt {
+  color: #7F00FF
+}
+
+.fa-chart-bar {
+  color: #FFA500
+}
+
 .fa-code {
   color: #e54d26;
 }
@@ -96,7 +104,7 @@ html, body {
   color: #2163af;
 }
 
-.fa-python, .fa-r-project, .fa-align-justify, .fa-code, .fa-css3 {
+.fa-python, .fa-r-project, .fa-align-justify, .fa-code, .fa-css3, .fa-product-hunt, .fa-chart-bar {
   font-size: 4em;
   margin: 1rem;
 }
